@@ -1,1 +1,1 @@
-FROM debian:15.5-buster-slim
+FROM amd64/node:15.5.1-buster-slim
